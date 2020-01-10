@@ -1,1 +1,1 @@
-edco "Hello world"
+echo "Hello world"
